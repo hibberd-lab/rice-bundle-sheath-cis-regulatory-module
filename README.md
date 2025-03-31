@@ -1,2 +1,2 @@
-# rice-bundle-sheath-cis-regulatory-module(CRM)-paper
-Scripts associated with "A transcription factor collective orchestrating bundle sheath expression in rice" by Hua et al.
+# rice-bundle-sheath-cis-regulatory-module
+Scripts associated with "A transcription factor team orchestrating bundle sheath expression in rice" by Hua et al.
